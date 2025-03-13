@@ -1,2 +1,3 @@
-# EvolutionaryComputing
-Repo deticated to study of Evolucionary Computing and his tecniques 
+# Evolutionary Computation
+
+Repository for studying evolutionary computation techniques.
